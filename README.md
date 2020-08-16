@@ -2,7 +2,7 @@
 
 My name is **Berker Bilgi** and I'm **iOS Developer**. I'm from **Turkey**, living in **Istanbul** and currently working at **Mediate**
 
-A big fan of **F1** 🏎
+A big fan of **Formula 1** 🏎
 
 **UIAccessibility** evangelist
 
