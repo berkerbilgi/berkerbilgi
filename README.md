@@ -1,16 +1,17 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://github.com/berkerbilgi/berkerbilgi/blob/master/wave.gif" width="30px">
 
-<!--
-**berkerbilgi/berkerbilgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Berker Bilgi** and I'm **iOS Developer**. I'm from **Turkey**, living in **Istanbul** and currently working at **Mediate**
 
-Here are some ideas to get you started:
+A big fan of **F1** 🏎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**UIAccessibility** evangelist
+
+Lifelong **learner** 💻
+
+
+<a href=[2]>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkerbilgi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href=[2]>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkerbilgi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Berker's GitHub Stats" />
+</a>
